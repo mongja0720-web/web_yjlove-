@@ -124,7 +124,7 @@ input {
 <audio id="no" src="https://actions.google.com/sounds/v1/cartoon/boing.ogg"></audio>
 
 <script>
-const words = ["가방","학교","친구","연필","지우개","공책","책상","의자","선생님","교실"];
+const words = ["가방","학교","친구","연필","지우개","공책","책상","의자","선생님","교실","이성민"];
 
 let i=0, score=0, life=3;
 
